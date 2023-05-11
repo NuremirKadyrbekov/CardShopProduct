@@ -10,6 +10,8 @@ export const Card =({data}) =>{
            <p className="VolumeProduct">{data.volume}</p>
            <div className="box"><div className="green"></div></div>
            <div><PlusMines/></div>
+           <div><PlusMines/></div>
+           <div><PlusMines/></div>
           </div>
          </div>
     );
